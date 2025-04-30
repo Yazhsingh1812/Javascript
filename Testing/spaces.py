@@ -1,0 +1,7 @@
+user_input = input("Enter a string: ")
+trimmed = user_input.strip()
+word_count = len(trimmed.split())
+capitalized = trimmed.title()
+print("Trimmed String:", trimmed)
+print("Number of Words:", word_count)
+print("Capitalized String:", capitalized)

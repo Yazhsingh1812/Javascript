@@ -1,0 +1,6 @@
+JavaScript Function - call()
+JavaScript Function - apply()
+JavaScript Function - bind()
+
+Callback function
+JS Promises & Async/Await

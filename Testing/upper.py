@@ -1,0 +1,5 @@
+user_input = input("Enter a string: ")
+upper_string = user_input.upper()
+a_count = upper_string.count('A')
+print("Uppercase String:", upper_string)
+print("Frequency of 'A':", a_count)
